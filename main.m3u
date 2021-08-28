@@ -1,34 +1,6 @@
 #EXTM3U 
-#EXTINF: -1 tvg-name="24/7 Avengers: Endgame" tvg-logo="https://od.lk/d/M18yNTgzNDkzMzZf/avengers-endgame-new-logo.jpg" tvg-logo-small="https://od.lk/d/M18yNTgzNDkzMzZf/avengers-endgame-new-logo.jpg" group-title="MARVEL MOVIES", 24/7 Avengers: Endgame
-https://m3u-editor.com/serve/5e4696a0-05c0-11ec-ab6d-d3b48b611fea/363958251
-#EXTINF: -1 tvg-name="24/7 Spider Man Into the Spider Verse" tvg-logo="https://od.lk/d/M18yNTgzNTAwNzFf/dcofsub-b4ecf4c7-ecff-4e45-85fa-66940829bc31.png" tvg-logo-small="https://od.lk/d/M18yNTgzNTAwNzFf/dcofsub-b4ecf4c7-ecff-4e45-85fa-66940829bc31.png" group-title="MARVEL MOVIES", 24/7 Spider Man Into the Spider Verse
-https://m3u-editor.com/serve/5e4696a0-05c0-11ec-ab6d-d3b48b611fea/363958252
-#EXTINF: -1 tvg-name="Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Live TV", Cartoon Network FHD
-https://m3u-editor.com/serve/5e4696a0-05c0-11ec-ab6d-d3b48b611fea/363958253
-#EXTINF: -1 tvg-name="Somali Cable" group-title="Live TV", Somali Cable
-https://m3u-editor.com/serve/5e4696a0-05c0-11ec-ab6d-d3b48b611fea/363958416
-#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/BNqvxTEo3Bv1v2VB_2cR1H1f1igihMRFUq6OCaz33OvP6lKHdkUSn76IZJdvaaeiOVPm" tvg-logo-small="https://play-lh.googleusercontent.com/BNqvxTEo3Bv1v2VB_2cR1H1f1igihMRFUq6OCaz33OvP6lKHdkUSn76IZJdvaaeiOVPm" group-title="Live TV", Nick Toons HD
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1001098
-#EXTINF: -1 tvg-name="BBC News HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/bbc-news-HD-logo-255x140.png?itok=xxYT3bQ9" tvg-logo-small="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/bbc-news-HD-logo-255x140.png?itok=xxYT3bQ9" group-title="Live TV", BBC News HD
-https://m3u-editor.com/serve/5e4696a0-05c0-11ec-ab6d-d3b48b611fea/363968946
-#EXTINF: -1 tvg-name="Sky Sports Arena (HEVC)" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="Live TV", Sky Sports Arena (HEVC)
-http://yassooo.com:8080/benAlaa/829293992/81755
-#EXTINF: -1 tvg-name="Sky Sports Football HD (HEVC)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6752.1507600241.png" group-title="Live TV", Sky Sports Football HD (HEVC)
-http://yassooo.com:8080/benAlaa/829293992/81759
-#EXTINF: -1 tvg-name="Sky Sports News HD (HEVC)" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="Live TV", Sky Sports News HD (HEVC)
-http://teslaiptv.com:8080/hannaxhanna/es576457/81762
 #EXTINF: -1 tvg-name="Ip Man: Kung Fu Master" tvg-logo="https://image.yts.rs/images/tt12567246/medium_cover_image.jpg" group-title="Movies", Ip Man: Kung Fu Master
 https://m3u-editor.com/serve/5e4696a0-05c0-11ec-ab6d-d3b48b611fea/363958255
-#EXTINF:0 tvg-country="GB" tvg-logo="https://play-lh.googleusercontent.com/SDM0tje-SwMfBS7Yjr8yWOoCkdJiKTEGYnfYQUeHZSQSpvp6Z1iFciNoitGUJhMjy8c" group-title="Sport",BT Sports 1 FHD
-http://yassooo.com:8080/benAlaa/829293992/81750
-#EXTINF:0 tvg-country="GB" tvg-logo="https://archive.org/download/BtSport3Hd/bt%20sport%203%20hd.png" group-title="Sport",BT Sports 3 FHD
-http://yassooo.com:8080/benAlaa/829293992/81748
-#EXTINF:0 tvg-country="GB" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="Sport",SKY SPORTS PREMIERE LEAGUE FHD (HEVC)
-http://teslaiptv.com:8080/hannaxhanna/es576457/81760
-#EXTINF:0 tvg-country="GB" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/sites/4/2020/11/Sky-Sports-ME-2020-logo-250.png" group-title="Sport",SKY SPORTS MAIN EVENT FHD (HEVC)
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243580
-#EXTINF:0 tvg-country="GB" tvg-logo="https://media.info/i/lf/0/1436396789/1491.png" group-title="Sport",BT Sports ESPN FHD
-http://teslaiptv.com:8080/hannaxhanna/es576457/81747?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNE5quR7o845W3iG0YtBW210Noll9lDgwO5XQBXci5ggyjtVnw" group-title="Movies",Sponge On The Run
 https://on18.transfercloud.io/files/178967/3655758/The%20SpongeBob%20Movie%20Sponge%20On%20The%20Run%20(2020)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/The.SpongeBob.Movie.Sponge.On.The.Run.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Movies",Black Panther
